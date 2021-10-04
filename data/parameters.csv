@@ -1,0 +1,6 @@
+disease,spo_mean,spo_dispersion,spo_z,r0_mean,r0_dispersion,r0_lower,r0_upper,inc_shape,inc_rate,rec_shape,rec_rate,sea_start,sea_shape1,sea_shape2,asym_rate,morbitity_rate,fatality_rate,cluster_shape1,cluster_shape2,cluster_type,cluster_amount,cluster_mean,cluster_dispersion,tho_cases,tho_days,vaccov_hcw,vaccov_pop,vaceff_dose1,vaceff_dose2,vacdel_dose1,vacdel_dose2,vacprot
+lassa,500.342713,1.720442,0,0.0631,NA,NA,NA,11.1191707,0.9224181,1.862467,0.164666,July,9.532623,6.438107,NA,NA,NA,0.00205565,1,Health Care Facility,38454,10011.96779,2.366657,10,28,0.7,0.7,0.7,NA,28,NA,7
+mers,200.071407,3.141773,0,0.6072742,0.26,0.305,0.993,51.728061,9.297431,26.681669,1.976382,January,1.173544,1.457933,2.9617602,0.8785586,1.0827364,0.017,0.72,Hospitals,8983,86202.42,0.7522029,10,28,0.7,0.7,0.7,NA,28,NA,7
+niv,69.94658,19.93436,0,0.325,NA,NA,NA,138.63404,14.04606,642.65926,99.02907,August,8.127667,7.388549,NA,NA,NA,0.005685387,0.481083667,Hospitals,13467,153680.4,1.179148,10,28,0.7,0.7,0.7,NA,28,NA,7
+rvf,307.417,149981.847,0,0,NA,NA,NA,2.1781799,0.7576007,NA,NA,July,1.422155,1.771726,NA,NA,NA,0.01161042,7301.902,Admin 2,212,272045,0.810919,3,28,0.7,0.7,0.7,NA,28,NA,7
+dxv,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,,NA,NA,NA,NA,NA,NA,NA,,100,10000,1,10,28,0.7,0.7,0.7,NA,28,NA,7
